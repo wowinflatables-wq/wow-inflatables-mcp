@@ -1,0 +1,13 @@
+# Render Blueprint - read-only public MCP server for wowinflatables.biz. No secrets.
+services:
+  - type: web
+    name: wow-inflatables-mcp
+    runtime: node
+    plan: free
+    region: virginia
+    buildCommand: echo no-deps
+    startCommand: node src/server.js
+    healthCheckPath: /.well-known/mcp.json
+    envVars:
+      - key: MCP_ENABLED
+        value: "true"

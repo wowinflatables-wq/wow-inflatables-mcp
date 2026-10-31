@@ -1,0 +1,294 @@
+{
+  "business": {
+    "name": "Wow Inflatables",
+    "website": "https://www.wowinflatables.biz",
+    "book_url": "https://www.wowinflatables.biz/book",
+    "public_phone": "678-379-9691",
+    "fleet": "127+ rental units",
+    "as_of": "2026-10-31"
+  },
+  "service_area": {
+    "headline": "Party rentals across Middle Georgia and south metro Atlanta.",
+    "home_base": "Forsyth, GA 31029",
+    "cities": [
+      "Macon, GA",
+      "Warner Robins, GA",
+      "Perry, GA",
+      "Forsyth, GA",
+      "Newnan, GA",
+      "McDonough, GA",
+      "Griffin, GA",
+      "Jackson, GA",
+      "Barnesville, GA",
+      "Milledgeville, GA",
+      "Eatonton, GA",
+      "Eastman, GA",
+      "Monticello, GA",
+      "Buena Vista, GA",
+      "Fort Valley, GA",
+      "Stockbridge, GA",
+      "Milner, GA"
+    ],
+    "counties": [
+      "Bibb County, GA",
+      "Houston County, GA",
+      "Monroe County, GA",
+      "Coweta County, GA",
+      "Henry County, GA",
+      "Spalding County, GA",
+      "Butts County, GA",
+      "Lamar County, GA",
+      "Baldwin County, GA",
+      "Putnam County, GA",
+      "Dodge County, GA",
+      "Jasper County, GA",
+      "Marion County, GA",
+      "Peach County, GA"
+    ],
+    "notes": "Wow delivers bounce houses, water slides, and related inflatables within about 60 miles of Forsyth, GA 31029 across Middle Georgia and south metro Atlanta. Enter the full event address at https://www.wowinflatables.biz/book to confirm coverage."
+  },
+  "units": [
+    {
+      "id": "16ft-sunset-surf-dual-lane-slide",
+      "name": "16ft Sunset Surf Dual Lane Slide",
+      "category": "water slide",
+      "description": "A surf-themed dual-lane water slide for side-by-side runs at birthdays, neighborhood parties, and warm-weather events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/16ft-sunset-surf-dual-lane-slide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/278-16ft-sunset-surf-dual-lane-slide-1_24110367.jpg",
+      "published_price": "$275.00"
+    },
+    {
+      "id": "22ft-dual-lane-slide",
+      "name": "22ft Dual Lane Slide W/D",
+      "category": "water slide",
+      "description": "A tall dual-lane slide recorded for approved wet or dry use, with side-by-side runs for high-energy events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/22ft-dual-lane-slide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/L292-1.jpg",
+      "published_price": "$395.00"
+    },
+    {
+      "id": "basketball-shoot",
+      "name": "Basketball Shoot",
+      "category": "other",
+      "description": "A quick-play inflatable basketball challenge that gives kids, teens, and adults an easy way to compete.",
+      "page_url": "https://www.wowinflatables.biz/rentals/basketball-shoot",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/basketball-shoot.jpg",
+      "published_price": "$75.00"
+    },
+    {
+      "id": "blue-lagoon-slipnslide",
+      "name": "Blue Lagoon Slip N Slide",
+      "category": "water slide",
+      "description": "A long water-powered inflatable slip and slide for summer birthdays, camps, and backyard events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/blue-lagoon-slipnslide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/226-blue-lagoon-slipnslide-1_2ff4ddec.jpg",
+      "published_price": "$235.00"
+    },
+    {
+      "id": "bounce-pyg",
+      "name": "Bounce — PYG",
+      "category": "bounce",
+      "description": "A bright purple, yellow, and green bounce house with classic open-jump fun for family events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/bounce-pyg",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/bounce-pyg.jpg",
+      "published_price": "$140.00"
+    },
+    {
+      "id": "castle-bounce",
+      "name": "Castle Bounce",
+      "category": "bounce",
+      "description": "A bright, classic inflatable bounce house for birthdays, school celebrations, and backyard parties.",
+      "page_url": "https://www.wowinflatables.biz/rentals/castle-bounce",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/castle-bounce-1200.webp",
+      "published_price": "$140.00"
+    },
+    {
+      "id": "castle-combo-wet-dry",
+      "name": "Castle Combo Wet/Dry",
+      "category": "combo",
+      "description": "A popular all-in-one combo that brings bouncing and sliding together for wet or dry event plans.",
+      "page_url": "https://www.wowinflatables.biz/rentals/castle-combo-wet-dry",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/castle-combo.webp",
+      "published_price": "$255.00"
+    },
+    {
+      "id": "gulf-of-america-slide",
+      "name": "Gulf of America Slide",
+      "category": "water slide",
+      "description": "A large-format inflatable water slide for summer parties, community gatherings, and other high-energy outdoor events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/gulf-of-america-slide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/284-gulf-of-america-slide-1_3e14778a.jpg",
+      "published_price": "$495.00"
+    },
+    {
+      "id": "munchkin-dual-lane-slide",
+      "name": "Munchkin Dual Lane Slide",
+      "category": "water slide",
+      "description": "A colorful dual-lane inflatable slide built for side-by-side excitement at warm-weather and dry events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/munchkin-dual-lane-slide",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/munchkin-dual-lane-slide.png",
+      "published_price": "$190.00"
+    },
+    {
+      "id": "obstacle-course-ryb",
+      "name": "Obstacle Course — RYB",
+      "category": "obstacle",
+      "description": "A high-energy race-through inflatable with climbing, crawling, and challenge sections for active groups.",
+      "page_url": "https://www.wowinflatables.biz/rentals/obstacle-course-ryb",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/obstacle-course-ryb.jpg",
+      "published_price": "$246.00"
+    },
+    {
+      "id": "obstacle-slide-pyg",
+      "name": "Obstacle with Slide — PYG",
+      "category": "obstacle",
+      "description": "An extended inflatable challenge with obstacles and a slide finish for group events and big-energy parties.",
+      "page_url": "https://www.wowinflatables.biz/rentals/obstacle-slide-pyg",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/obstacle-slide-pyg.jpg",
+      "published_price": "$246.00"
+    },
+    {
+      "id": "pink-purple-bounce",
+      "name": "Pink & Purple Bounce House",
+      "category": "bounce",
+      "description": "A bold pink-and-purple bounce house that makes a colorful centerpiece for birthdays and celebrations.",
+      "page_url": "https://www.wowinflatables.biz/rentals/pink-purple-bounce",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/pink-purple-bounce.jpg",
+      "published_price": "$145.00"
+    },
+    {
+      "id": "red-rush-wet-dry-slide",
+      "name": "Red Rush Wet/Dry Slide",
+      "category": "water slide",
+      "description": "A bright red inflatable slide that can be planned in its approved wet or dry configuration for parties and group events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/red-rush-wet-dry-slide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/210-red-rush-wet-dry-slide-1_bb4a2f16.jpg",
+      "published_price": "$246.00"
+    },
+    {
+      "id": "red-white-cool-popsicle-dual-lane-slide",
+      "name": "Red, White and Cool Popsicle Dual Lane Slide",
+      "category": "water slide",
+      "description": "A popsicle-themed dual-lane slide for approved wet or dry use at summer parties, patriotic events, and community gatherings.",
+      "page_url": "https://www.wowinflatables.biz/rentals/red-white-cool-popsicle-dual-lane-slide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/285-red--white-and-cool-popsicle-dual-lane-s-1_a8933917.jpg",
+      "published_price": "$385.00"
+    },
+    {
+      "id": "rock-climb-slide",
+      "name": "Rock Climb Slide",
+      "category": "other",
+      "description": "A climb-and-slide inflatable that adds a vertical challenge to fall festivals, gyms, and dry events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/rock-climb-slide",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/rock-climb-slide.jpg",
+      "published_price": "$190.00"
+    },
+    {
+      "id": "triple-lane-slide",
+      "name": "Triple Lane Slide",
+      "category": "water slide",
+      "description": "A three-lane inflatable water slide that keeps more riders moving at summer parties and larger group events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/triple-lane-slide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/featured/triple-lane-slide-sunset.webp",
+      "published_price": "$415.00"
+    },
+    {
+      "id": "tropical-dual-lane-slide",
+      "name": "Tropical Dual Lane Slide",
+      "category": "water slide",
+      "description": "A tropical-themed dual-lane inflatable water slide for summer birthdays, camps, and neighborhood events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/tropical-dual-lane-slide",
+      "image_url": "https://www.wowinflatables.biz/equipment/optimized/tropical-dual-lane-slide.jpg",
+      "published_price": "$355.00"
+    },
+    {
+      "id": "tropical-dual-slipnslide",
+      "name": "Tropical Dual Slip N Slide",
+      "category": "water slide",
+      "description": "A tropical-themed dual-lane slip and slide that gives two riders a long side-by-side run at warm-weather events.",
+      "page_url": "https://www.wowinflatables.biz/rentals/tropical-dual-slipnslide",
+      "image_url": "https://www.wowinflatables.biz/manus-storage/optimized/216-tropical-dual-slipnslide-1_d6dd6d4f.jpg",
+      "published_price": "$267.00"
+    }
+  ],
+  "faq": [
+    {
+      "id": "how-much-does-an-inflatable-rental-cost",
+      "question": "How much does an inflatable rental cost?",
+      "answer": "Wow Inflatables publishes real base daily prices so customers can compare the equipment before checking a date. Delivery and applicable county sales tax are confirmed separately.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "how-much-does-a-bounce-house-cost",
+      "question": "How much does a bounce house cost?",
+      "answer": "$140–$265 base daily price. Standard bounce houses start at $140. Larger themed and bounce-and-slide options reach $265. See how much a bounce house costs. See bounce-house prices.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "how-much-does-a-water-slide-cost",
+      "question": "How much does a water slide cost?",
+      "answer": "$170–$495 base daily price. Water-slide prices begin at $170 and rise with size, lanes, features, and the specific model. See water-slide prices.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "how-much-does-a-combo-cost",
+      "question": "How much does a combo cost?",
+      "answer": "$185+ base daily price. Combo prices begin at $185 for the dry-only Pirate Slide and $255 for wet/dry combos, and vary by the exact bounce-and-slide unit. Book from the current catalog.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "how-much-does-a-bounce-house-rental-cost",
+      "question": "How much does a bounce house rental cost?",
+      "answer": "Wow Inflatables base daily prices start at $140 for standard bounce houses and reach $265 for larger themed or combo-style choices. Delivery and applicable county sales tax are confirmed separately.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "how-much-does-a-water-slide-rental-cost",
+      "question": "How much does a water slide rental cost?",
+      "answer": "Wow Inflatables water-slide base daily prices start at $170 and reach $495 for the premium options shown. Delivery and applicable county sales tax are confirmed separately.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "do-i-need-a-generator-for-a-bounce-house",
+      "question": "Do I need a generator for a bounce house?",
+      "answer": "Usually no generator is needed when an approved, working, dedicated outdoor GFCI outlet is close enough for the blower. Parks, remote fields, banned building power, long cord runs, or multi-unit loads often need a generator. Match power to the exact equipment list and venue rules—do not guess watts from a chart. Call 678-379-9691 after you pick gear, or read the generator guide.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "why-does-the-reservation-ask-for-the-event-county",
+      "question": "Why does the reservation ask for the event county?",
+      "answer": "The event county is required with the address so delivery details and applicable county sales-tax information can be confirmed for the event location.",
+      "page_url": "https://www.wowinflatables.biz/"
+    },
+    {
+      "id": "are-these-the-only-units-wow-rents",
+      "question": "Are these the only units Wow rents?",
+      "answer": "No. This page highlights popular units. Full availability for your date is confirmed in the booking flow at https://www.wowinflatables.biz/book.",
+      "page_url": "https://www.wowinflatables.biz/rentals"
+    },
+    {
+      "id": "where-can-i-see-real-event-photos",
+      "question": "Where can I see real event photos?",
+      "answer": "See /gallery for photos of Wow setups, then match the exact listing rules when you book.",
+      "page_url": "https://www.wowinflatables.biz/rentals"
+    },
+    {
+      "id": "where-does-wow-inflatables-deliver",
+      "question": "Where does Wow Inflatables deliver?",
+      "answer": "Wow delivers bounce houses, water slides, and related inflatables within about 60 miles of Forsyth, GA 31029 across Middle Georgia and south metro Atlanta. Enter the full event address at https://www.wowinflatables.biz/book to confirm coverage.",
+      "page_url": "https://www.wowinflatables.biz/service-areas"
+    },
+    {
+      "id": "what-does-service-area-mean-here",
+      "question": "What does “service area” mean here?",
+      "answer": "Service area means the geography where Wow can typically deliver and set up for a booked rental, subject to date, equipment, and site access. It is not a guarantee for every address on every date.",
+      "page_url": "https://www.wowinflatables.biz/service-areas"
+    },
+    {
+      "id": "how-do-i-check-a-specific-address",
+      "question": "How do I check a specific address?",
+      "answer": "Use https://www.wowinflatables.biz/book with the complete street address and event date. Call 678-379-9691 if the venue has gates, stairs, or special power rules.",
+      "page_url": "https://www.wowinflatables.biz/service-areas"
+    }
+  ]
+}
